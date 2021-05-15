@@ -1,0 +1,55 @@
+https://api.steampowered.com/IDOTA2Match_570/GetMatchDetails/V001/?match_id=5966708235&key=CE0C1860A856FE61DFA27296C4C3BB38
+
+Document API GITHUB
+https://github.com/kronusme/dota2-api
+
+Dota 2 id 570
+
+HEROS 
+https://api.steampowered.com/IEconDOTA2_570/GetHeroes/v1/?key=CE0C1860A856FE61DFA27296C4C3BB38
+
+HEROS LIST
+https://www.dota2.com/datafeed/herolist?language=english
+
+HERO DETAILS
+https://www.dota2.com/datafeed/herodata?language=english&hero_id=68
+
+
+HERO IMAGES
+
+https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bane.png
+
+ITEMS
+https://api.steampowered.com/IEconDOTA2_570/GetGameItems/v1/?key=CE0C1860A856FE61DFA27296C4C3BB38
+
+ITEMS IMAGES
+https://cdn.dota2.com/apps/dota2/images/items/blink_lg.png
+
+ABILITY IMAGES
+https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/alchemist_goblins_greed.png
+
+ABILITY LIST
+https://www.dota2.com/datafeed/abilitylist?language=english
+
+HERO ABILITY VIDEOS
+https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/abilities/ancient_apparition/ancient_apparition_cold_feet.webm
+
+USER PROFILE
+https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?steamids=76561198199430499&key=CE0C1860A856FE61DFA27296C4C3BB38
+
+GET MATCHE DETAULS BY SEQUENCE NUMBER
+
+https://api.steampowered.com/IDOTA2Match_570/GetMatchHistoryBySequenceNum/v1/?key=CE0C1860A856FE61DFA27296C4C3BB38&start_at_match_seq_num=4956422452
+
+REPLAY
+http://replayCLUSTER.valve.net/570/MATCHID_REPLAYSALT.dem.bz2
+
+  "proxy": [
+    "https://api.steampowered.com",
+    "https://www.dota2.com"
+  ],
+  "origin": [
+    "https://api.steampowered.com",
+    "https://www.dota2.com"
+  ]
+
